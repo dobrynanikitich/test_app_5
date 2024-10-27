@@ -1,5 +1,7 @@
 class PagesController < ApplicationController
     def home
-        # "Hello world!"
+    end
+
+    def about
     end
 end
